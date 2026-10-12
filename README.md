@@ -4,6 +4,8 @@ This lab introduces you to a new data structure: graphs. Graphs are a fundamenta
 
 **Instructions:** To complete this lab, you may work in groups, but you must write your solutions yourself. Complete all of the exercises below. Once you have completed the lab, push your changes to your forked repository.
 
+Your name: ___________________________
+
 ## Introduction to Graphs
 
 Graphs consist of a set of vertices (also called nodes) and a set of edges that connect pairs of vertices. Graphs are used to model relationships between objects in various domains. We can represent real-world problems using the language of graphs and solve them using graph algorithms. Common applications include finding the shortest driving route between cities, identifying fraud in financial transactions, or determining social media influencers. Graphs can represent diverse systems like communication networks, circuits, internet routing, social relationships, and protein interactions.
