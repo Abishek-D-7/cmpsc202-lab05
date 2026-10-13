@@ -27,6 +27,7 @@ For the following graph, list the vertices and edges. What is the size of the gr
 
 - **Edges**: $E=\{\{0,1\},\{0,2\},\{0,3\},\{1,2\},\{3,4\}\}$.
 
+
 - **Size**: $n=5$ vertices and $m=5$ edges.
 
 
